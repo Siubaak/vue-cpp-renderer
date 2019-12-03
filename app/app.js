@@ -1,4 +1,4 @@
-import Vue from '../../deps/vue/vue.js'
+import Vue from '../deps/vue/vue.js'
 import ByWho from './component.js'
 
 export default new Vue({
